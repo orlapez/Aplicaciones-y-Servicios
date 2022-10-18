@@ -1,0 +1,17 @@
+Nuguets para instalar:
+
+Microsoft.EntityFrameworkCore
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+AutoMapper
+AutoMapper.Extensions.Microsoft.DependencyInjection
+
+
+Directorios para crear:
+
+
+Data
+Controllers
+DTOs
+Entidades
+Helpers
